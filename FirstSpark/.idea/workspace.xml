@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="743cd686-6728-4470-99ae-268e7952bf46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_clients_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_avro_2_12_2_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_12_2_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_kafka_0_10_2_12_2_4_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/sample/spark/Pokemon.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/sample/sparkstreaming/CreditCardDataAnalysis.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/sample/sparkstreaming/ProcessingKafkaLogs.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/sample/sparkstreaming/StreamingCSVFile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_lz4_lz4_java_1_4_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/FirstSpark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/FirstSpark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f2b644ff2fd287cdd53b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f2b644ff2fd287cdd53b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$f2b644ff2fd287cdd53b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e36375e0cfd320d3dc2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e36375e0cfd320d3dc2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2e36375e0cfd320d3dc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b15f31c67fffeab212d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b15f31c67fffeab212d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9b15f31c67fffeab212d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c5496e9c873d83fb3a4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c5496e9c873d83fb3a4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c5496e9c873d83fb3a4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3f9a70beee0caf169ed$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3f9a70beee0caf169ed.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a3f9a70beee0caf169ed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c409a6065e94a8183591$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c409a6065e94a8183591.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c409a6065e94a8183591.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7154a83a34c2ce28bed$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7154a83a34c2ce28bed.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d7154a83a34c2ce28bed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc82bd141aedcb33b37c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc82bd141aedcb33b37c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dc82bd141aedcb33b37c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Pokemon.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkJoinExample.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/sample/spark/SparkJoinExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkSQLDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/org/sample/spark/SparkSQLDemo.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1p6Z10miFbYJrgJDWUMSqEI9WXf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.CreditCardDataAnalysis">
+    <configuration name="CreditCardDataAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.sample.sparkstreaming.CreditCardDataAnalysis" />
+      <module name="FirstSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sample.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessingKafkaLogs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.sample.sparkstreaming.ProcessingKafkaLogs" />
+      <module name="FirstSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sample.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkJoinExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.sample.spark.SparkJoinExample" />
+      <module name="FirstSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sample.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSQLDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.sample.spark.SparkSQLDemo" />
+      <module name="FirstSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sample.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingCSVFile" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.sample.sparkstreaming.StreamingCSVFile" />
+      <module name="FirstSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sample.sparkstreaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SparkJoinExample" />
+      <item itemvalue="Application.SparkSQLDemo" />
+      <item itemvalue="Application.ProcessingKafkaLogs" />
+      <item itemvalue="Application.StreamingCSVFile" />
+      <item itemvalue="Application.CreditCardDataAnalysis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreditCardDataAnalysis" />
+        <item itemvalue="Application.ProcessingKafkaLogs" />
+        <item itemvalue="Application.StreamingCSVFile" />
+        <item itemvalue="Application.SparkSQLDemo" />
+        <item itemvalue="Application.SparkJoinExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743cd686-6728-4470-99ae-268e7952bf46" name="Default Changelist" comment="" />
+      <created>1614505281911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614505281911</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1614889162013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614889162013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>

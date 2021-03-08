@@ -1,0 +1,1000 @@
+{"id":100,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":72,"english":72,"bio":74}
+{"id":101,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":69,"english":90,"bio":88}
+{"id":102,"gender":"female","group":"group B","degree":"master's degree","courseType":"standard","status":"none","math":90,"english":95,"bio":93}
+{"id":103,"gender":"male","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"none","math":47,"english":57,"bio":44}
+{"id":104,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":76,"english":78,"bio":75}
+{"id":105,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":71,"english":83,"bio":78}
+{"id":106,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":88,"english":95,"bio":92}
+{"id":107,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":40,"english":43,"bio":39}
+{"id":108,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"completed","math":64,"english":64,"bio":67}
+{"id":109,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":38,"english":60,"bio":50}
+{"id":110,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":58,"english":54,"bio":52}
+{"id":111,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":40,"english":52,"bio":43}
+{"id":112,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":65,"english":81,"bio":73}
+{"id":113,"gender":"male","group":"group A","degree":"some college","courseType":"standard","status":"completed","math":78,"english":72,"bio":70}
+{"id":114,"gender":"female","group":"group A","degree":"master's degree","courseType":"standard","status":"none","math":50,"english":53,"bio":58}
+{"id":115,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":69,"english":75,"bio":78}
+{"id":116,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":88,"english":89,"bio":86}
+{"id":117,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"none","math":18,"english":32,"bio":28}
+{"id":118,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"completed","math":46,"english":42,"bio":46}
+{"id":119,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":54,"english":58,"bio":61}
+{"id":120,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":66,"english":69,"bio":63}
+{"id":121,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":65,"english":75,"bio":70}
+{"id":122,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":44,"english":54,"bio":53}
+{"id":123,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":69,"english":73,"bio":73}
+{"id":124,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":74,"english":71,"bio":80}
+{"id":125,"gender":"male","group":"group A","degree":"master's degree","courseType":"free/reduced","status":"none","math":73,"english":74,"bio":72}
+{"id":126,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":69,"english":54,"bio":55}
+{"id":127,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":67,"english":69,"bio":75}
+{"id":128,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":70,"english":70,"bio":65}
+{"id":129,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":62,"english":70,"bio":75}
+{"id":130,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":69,"english":74,"bio":74}
+{"id":131,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":63,"english":65,"bio":61}
+{"id":132,"gender":"female","group":"group E","degree":"master's degree","courseType":"free/reduced","status":"none","math":56,"english":72,"bio":65}
+{"id":133,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":40,"english":42,"bio":38}
+{"id":134,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":97,"english":87,"bio":82}
+{"id":135,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":81,"english":81,"bio":79}
+{"id":136,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":74,"english":81,"bio":83}
+{"id":137,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":50,"english":64,"bio":59}
+{"id":138,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":75,"english":90,"bio":88}
+{"id":139,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":57,"english":56,"bio":57}
+{"id":140,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":55,"english":61,"bio":54}
+{"id":141,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":58,"english":73,"bio":68}
+{"id":142,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":53,"english":58,"bio":65}
+{"id":143,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":59,"english":65,"bio":66}
+{"id":144,"gender":"female","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":50,"english":56,"bio":54}
+{"id":145,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":65,"english":54,"bio":57}
+{"id":146,"gender":"female","group":"group A","degree":"associate's degree","courseType":"standard","status":"completed","math":55,"english":65,"bio":62}
+{"id":147,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":66,"english":71,"bio":76}
+{"id":148,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":57,"english":74,"bio":76}
+{"id":149,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":82,"english":84,"bio":82}
+{"id":150,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":53,"english":55,"bio":48}
+{"id":151,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":77,"english":69,"bio":68}
+{"id":152,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":53,"english":44,"bio":42}
+{"id":153,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":88,"english":78,"bio":75}
+{"id":154,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":71,"english":84,"bio":87}
+{"id":155,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":33,"english":41,"bio":43}
+{"id":156,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":82,"english":85,"bio":86}
+{"id":157,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":52,"english":55,"bio":49}
+{"id":158,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":58,"english":59,"bio":58}
+{"id":159,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":0,"english":17,"bio":10}
+{"id":160,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":79,"english":74,"bio":72}
+{"id":161,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":39,"english":39,"bio":34}
+{"id":162,"gender":"male","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"none","math":62,"english":61,"bio":55}
+{"id":163,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":69,"english":80,"bio":71}
+{"id":164,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":59,"english":58,"bio":59}
+{"id":165,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":67,"english":64,"bio":61}
+{"id":166,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":45,"english":37,"bio":37}
+{"id":167,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":60,"english":72,"bio":74}
+{"id":168,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":61,"english":58,"bio":56}
+{"id":169,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":39,"english":64,"bio":57}
+{"id":170,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":58,"english":63,"bio":73}
+{"id":171,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":63,"english":55,"bio":63}
+{"id":172,"gender":"female","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"none","math":41,"english":51,"bio":48}
+{"id":173,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":61,"english":57,"bio":56}
+{"id":174,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":49,"english":49,"bio":41}
+{"id":175,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":44,"english":41,"bio":38}
+{"id":176,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"none","math":30,"english":26,"bio":22}
+{"id":177,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"completed","math":80,"english":78,"bio":81}
+{"id":178,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":61,"english":74,"bio":72}
+{"id":179,"gender":"female","group":"group E","degree":"master's degree","courseType":"standard","status":"none","math":62,"english":68,"bio":68}
+{"id":180,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":47,"english":49,"bio":50}
+{"id":181,"gender":"male","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":49,"english":45,"bio":45}
+{"id":182,"gender":"male","group":"group A","degree":"some college","courseType":"free/reduced","status":"completed","math":50,"english":47,"bio":54}
+{"id":183,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":72,"english":64,"bio":63}
+{"id":184,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":42,"english":39,"bio":34}
+{"id":185,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":73,"english":80,"bio":82}
+{"id":186,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":76,"english":83,"bio":88}
+{"id":187,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":71,"english":71,"bio":74}
+{"id":188,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"none","math":58,"english":70,"bio":67}
+{"id":189,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":73,"english":86,"bio":82}
+{"id":190,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":65,"english":72,"bio":74}
+{"id":191,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":27,"english":34,"bio":36}
+{"id":192,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":71,"english":79,"bio":71}
+{"id":193,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":43,"english":45,"bio":50}
+{"id":194,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":79,"english":86,"bio":92}
+{"id":195,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":78,"english":81,"bio":82}
+{"id":196,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":65,"english":66,"bio":62}
+{"id":197,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":63,"english":72,"bio":70}
+{"id":198,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":58,"english":67,"bio":62}
+{"id":199,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":65,"english":67,"bio":62}
+{"id":200,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":79,"english":67,"bio":67}
+{"id":201,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"completed","math":68,"english":74,"bio":74}
+{"id":202,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":85,"english":91,"bio":89}
+{"id":203,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":60,"english":44,"bio":47}
+{"id":204,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":98,"english":86,"bio":90}
+{"id":205,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":58,"english":67,"bio":72}
+{"id":206,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":87,"english":100,"bio":100}
+{"id":207,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":66,"english":63,"bio":64}
+{"id":208,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":52,"english":76,"bio":70}
+{"id":209,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":70,"english":64,"bio":72}
+{"id":210,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":77,"english":89,"bio":98}
+{"id":211,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":62,"english":55,"bio":49}
+{"id":212,"gender":"male","group":"group A","degree":"associate's degree","courseType":"standard","status":"none","math":54,"english":53,"bio":47}
+{"id":213,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":51,"english":58,"bio":54}
+{"id":214,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":99,"english":100,"bio":100}
+{"id":215,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":84,"english":77,"bio":74}
+{"id":216,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":75,"english":85,"bio":82}
+{"id":217,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":78,"english":82,"bio":79}
+{"id":218,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":51,"english":63,"bio":61}
+{"id":219,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":55,"english":69,"bio":65}
+{"id":220,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":79,"english":92,"bio":89}
+{"id":221,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":91,"english":89,"bio":92}
+{"id":222,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":88,"english":93,"bio":93}
+{"id":223,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":63,"english":57,"bio":56}
+{"id":224,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":83,"english":80,"bio":73}
+{"id":225,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":87,"english":95,"bio":86}
+{"id":226,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":72,"english":68,"bio":67}
+{"id":227,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":65,"english":77,"bio":74}
+{"id":228,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":82,"english":82,"bio":74}
+{"id":229,"gender":"female","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":51,"english":49,"bio":51}
+{"id":230,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":89,"english":84,"bio":82}
+{"id":231,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":53,"english":37,"bio":40}
+{"id":232,"gender":"male","group":"group E","degree":"some college","courseType":"free/reduced","status":"completed","math":87,"english":74,"bio":70}
+{"id":233,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":75,"english":81,"bio":84}
+{"id":234,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":74,"english":79,"bio":75}
+{"id":235,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":58,"english":55,"bio":48}
+{"id":236,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":51,"english":54,"bio":41}
+{"id":237,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"none","math":70,"english":55,"bio":56}
+{"id":238,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":59,"english":66,"bio":67}
+{"id":239,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":71,"english":61,"bio":69}
+{"id":240,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":76,"english":72,"bio":71}
+{"id":241,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":59,"english":62,"bio":64}
+{"id":242,"gender":"female","group":"group E","degree":"some college","courseType":"free/reduced","status":"completed","math":42,"english":55,"bio":54}
+{"id":243,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":57,"english":43,"bio":47}
+{"id":244,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":88,"english":73,"bio":78}
+{"id":245,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":22,"english":39,"bio":33}
+{"id":246,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":88,"english":84,"bio":75}
+{"id":247,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":73,"english":68,"bio":66}
+{"id":248,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"completed","math":68,"english":75,"bio":81}
+{"id":249,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":100,"english":100,"bio":93}
+{"id":250,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":62,"english":67,"bio":69}
+{"id":251,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":77,"english":67,"bio":68}
+{"id":252,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":59,"english":70,"bio":66}
+{"id":253,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":54,"english":49,"bio":47}
+{"id":254,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":62,"english":67,"bio":61}
+{"id":255,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":70,"english":89,"bio":88}
+{"id":256,"gender":"female","group":"group E","degree":"high school","courseType":"free/reduced","status":"completed","math":66,"english":74,"bio":78}
+{"id":257,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":60,"english":60,"bio":60}
+{"id":258,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":61,"english":86,"bio":87}
+{"id":259,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":66,"english":62,"bio":64}
+{"id":260,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":82,"english":78,"bio":74}
+{"id":261,"gender":"female","group":"group E","degree":"some college","courseType":"free/reduced","status":"completed","math":75,"english":88,"bio":85}
+{"id":262,"gender":"male","group":"group B","degree":"master's degree","courseType":"free/reduced","status":"none","math":49,"english":53,"bio":52}
+{"id":263,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":52,"english":53,"bio":49}
+{"id":264,"gender":"female","group":"group E","degree":"master's degree","courseType":"standard","status":"none","math":81,"english":92,"bio":91}
+{"id":265,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":96,"english":100,"bio":100}
+{"id":266,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":53,"english":51,"bio":51}
+{"id":267,"gender":"female","group":"group B","degree":"master's degree","courseType":"free/reduced","status":"completed","math":58,"english":76,"bio":78}
+{"id":268,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":68,"english":83,"bio":78}
+{"id":269,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":67,"english":75,"bio":70}
+{"id":270,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"completed","math":72,"english":73,"bio":74}
+{"id":271,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"none","math":94,"english":88,"bio":78}
+{"id":272,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":79,"english":86,"bio":81}
+{"id":273,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":63,"english":67,"bio":70}
+{"id":274,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":43,"english":51,"bio":54}
+{"id":275,"gender":"female","group":"group C","degree":"master's degree","courseType":"standard","status":"completed","math":81,"english":91,"bio":87}
+{"id":276,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"completed","math":46,"english":54,"bio":58}
+{"id":277,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":71,"english":77,"bio":77}
+{"id":278,"gender":"female","group":"group B","degree":"master's degree","courseType":"free/reduced","status":"completed","math":52,"english":70,"bio":62}
+{"id":279,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":97,"english":100,"bio":100}
+{"id":280,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"completed","math":62,"english":68,"bio":75}
+{"id":281,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":46,"english":64,"bio":66}
+{"id":282,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"none","math":50,"english":50,"bio":47}
+{"id":283,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":65,"english":69,"bio":70}
+{"id":284,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":45,"english":52,"bio":49}
+{"id":285,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":65,"english":67,"bio":65}
+{"id":286,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"none","math":80,"english":76,"bio":65}
+{"id":287,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":62,"english":66,"bio":68}
+{"id":288,"gender":"male","group":"group B","degree":"some high school","courseType":"free/reduced","status":"none","math":48,"english":52,"bio":45}
+{"id":289,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":77,"english":88,"bio":87}
+{"id":290,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":66,"english":65,"bio":69}
+{"id":291,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":76,"english":83,"bio":79}
+{"id":292,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":62,"english":64,"bio":66}
+{"id":293,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":77,"english":62,"bio":62}
+{"id":294,"gender":"female","group":"group C","degree":"master's degree","courseType":"standard","status":"completed","math":69,"english":84,"bio":85}
+{"id":295,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":61,"english":55,"bio":52}
+{"id":296,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":59,"english":69,"bio":65}
+{"id":297,"gender":"male","group":"group E","degree":"high school","courseType":"free/reduced","status":"none","math":55,"english":56,"bio":51}
+{"id":298,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":45,"english":53,"bio":55}
+{"id":299,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":78,"english":79,"bio":76}
+{"id":300,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":67,"english":84,"bio":86}
+{"id":301,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":65,"english":81,"bio":77}
+{"id":302,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":69,"english":77,"bio":69}
+{"id":303,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":57,"english":69,"bio":68}
+{"id":304,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":59,"english":41,"bio":42}
+{"id":305,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":74,"english":71,"bio":78}
+{"id":306,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":82,"english":62,"bio":62}
+{"id":307,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"completed","math":81,"english":80,"bio":76}
+{"id":308,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":74,"english":81,"bio":76}
+{"id":309,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":58,"english":61,"bio":66}
+{"id":310,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"completed","math":80,"english":79,"bio":79}
+{"id":311,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":35,"english":28,"bio":27}
+{"id":312,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":42,"english":62,"bio":60}
+{"id":313,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":60,"english":51,"bio":56}
+{"id":314,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"completed","math":87,"english":91,"bio":81}
+{"id":315,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":84,"english":83,"bio":75}
+{"id":316,"gender":"female","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":83,"english":86,"bio":88}
+{"id":317,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":34,"english":42,"bio":39}
+{"id":318,"gender":"male","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":66,"english":77,"bio":70}
+{"id":319,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":61,"english":56,"bio":56}
+{"id":320,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":56,"english":68,"bio":74}
+{"id":321,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":87,"english":85,"bio":73}
+{"id":322,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":55,"english":65,"bio":62}
+{"id":323,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":86,"english":80,"bio":75}
+{"id":324,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":52,"english":66,"bio":73}
+{"id":325,"gender":"female","group":"group E","degree":"master's degree","courseType":"free/reduced","status":"none","math":45,"english":56,"bio":54}
+{"id":326,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":72,"english":72,"bio":71}
+{"id":327,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":57,"english":50,"bio":54}
+{"id":328,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":68,"english":72,"bio":64}
+{"id":329,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":88,"english":95,"bio":94}
+{"id":330,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":76,"english":64,"bio":66}
+{"id":331,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":46,"english":43,"bio":42}
+{"id":332,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":67,"english":86,"bio":83}
+{"id":333,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"none","math":92,"english":87,"bio":78}
+{"id":334,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":83,"english":82,"bio":84}
+{"id":335,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":75,"bio":77}
+{"id":336,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":63,"english":66,"bio":67}
+{"id":337,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":64,"english":60,"bio":74}
+{"id":338,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":54,"english":52,"bio":51}
+{"id":339,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":84,"english":80,"bio":80}
+{"id":340,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"completed","math":73,"english":68,"bio":66}
+{"id":341,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":80,"english":83,"bio":83}
+{"id":342,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":56,"english":52,"bio":55}
+{"id":343,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":59,"english":51,"bio":43}
+{"id":344,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":75,"english":74,"bio":69}
+{"id":345,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":85,"english":76,"bio":71}
+{"id":346,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":89,"english":76,"bio":74}
+{"id":347,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":58,"english":70,"bio":68}
+{"id":348,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":65,"english":64,"bio":62}
+{"id":349,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":68,"english":60,"bio":53}
+{"id":350,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":47,"english":49,"bio":49}
+{"id":351,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":71,"english":83,"bio":83}
+{"id":352,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":60,"english":70,"bio":70}
+{"id":353,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":80,"english":80,"bio":72}
+{"id":354,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":54,"english":52,"bio":52}
+{"id":355,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":62,"english":73,"bio":70}
+{"id":356,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":64,"english":73,"bio":68}
+{"id":357,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":78,"english":77,"bio":77}
+{"id":358,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":70,"english":75,"bio":78}
+{"id":359,"gender":"female","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"completed","math":65,"english":81,"bio":81}
+{"id":360,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":64,"english":79,"bio":77}
+{"id":361,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":79,"english":79,"bio":78}
+{"id":362,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":44,"english":50,"bio":51}
+{"id":363,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"none","math":99,"english":93,"bio":90}
+{"id":364,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":76,"english":73,"bio":68}
+{"id":365,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":59,"english":42,"bio":41}
+{"id":366,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":63,"english":75,"bio":81}
+{"id":367,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":69,"english":72,"bio":77}
+{"id":368,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":88,"english":92,"bio":95}
+{"id":369,"gender":"female","group":"group E","degree":"some college","courseType":"free/reduced","status":"none","math":71,"english":76,"bio":70}
+{"id":370,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":69,"english":63,"bio":61}
+{"id":371,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":58,"english":49,"bio":42}
+{"id":372,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":47,"english":53,"bio":58}
+{"id":373,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":65,"english":70,"bio":71}
+{"id":374,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":88,"english":85,"bio":76}
+{"id":375,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":83,"english":78,"bio":73}
+{"id":376,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":85,"english":92,"bio":93}
+{"id":377,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"completed","math":59,"english":63,"bio":75}
+{"id":378,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":65,"english":86,"bio":80}
+{"id":379,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":73,"english":56,"bio":57}
+{"id":380,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":53,"english":52,"bio":42}
+{"id":381,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":45,"english":48,"bio":46}
+{"id":382,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":73,"english":79,"bio":84}
+{"id":383,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":70,"english":78,"bio":78}
+{"id":384,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":37,"english":46,"bio":46}
+{"id":385,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":81,"english":82,"bio":82}
+{"id":386,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":97,"english":82,"bio":88}
+{"id":387,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":67,"english":89,"bio":82}
+{"id":388,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":88,"english":75,"bio":76}
+{"id":389,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":77,"english":76,"bio":77}
+{"id":390,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":76,"english":70,"bio":68}
+{"id":391,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":86,"english":73,"bio":70}
+{"id":392,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":63,"english":60,"bio":57}
+{"id":393,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":65,"english":73,"bio":75}
+{"id":394,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"completed","math":78,"english":77,"bio":80}
+{"id":395,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":67,"english":62,"bio":60}
+{"id":396,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":46,"english":41,"bio":43}
+{"id":397,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":71,"english":74,"bio":68}
+{"id":398,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":40,"english":46,"bio":50}
+{"id":399,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":90,"english":87,"bio":75}
+{"id":400,"gender":"male","group":"group A","degree":"some college","courseType":"free/reduced","status":"completed","math":81,"english":78,"bio":81}
+{"id":401,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":56,"english":54,"bio":52}
+{"id":402,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":67,"english":84,"bio":81}
+{"id":403,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":76,"bio":64}
+{"id":404,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":74,"english":75,"bio":83}
+{"id":405,"gender":"male","group":"group A","degree":"some college","courseType":"standard","status":"none","math":69,"english":67,"bio":69}
+{"id":406,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":99,"english":87,"bio":81}
+{"id":407,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":51,"english":52,"bio":44}
+{"id":408,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":53,"english":71,"bio":67}
+{"id":409,"gender":"female","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":49,"english":57,"bio":52}
+{"id":410,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":73,"english":76,"bio":80}
+{"id":411,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":66,"english":60,"bio":57}
+{"id":412,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"completed","math":67,"english":61,"bio":68}
+{"id":413,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":68,"english":67,"bio":69}
+{"id":414,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":59,"english":64,"bio":75}
+{"id":415,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":71,"english":66,"bio":65}
+{"id":416,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"completed","math":77,"english":82,"bio":91}
+{"id":417,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":83,"english":72,"bio":78}
+{"id":418,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":63,"english":71,"bio":69}
+{"id":419,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":56,"english":65,"bio":63}
+{"id":420,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":67,"english":79,"bio":84}
+{"id":421,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"none","math":75,"english":86,"bio":79}
+{"id":422,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":71,"english":81,"bio":80}
+{"id":423,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":43,"english":53,"bio":53}
+{"id":424,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":41,"english":46,"bio":43}
+{"id":425,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":82,"english":90,"bio":94}
+{"id":426,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":61,"english":61,"bio":62}
+{"id":427,"gender":"male","group":"group A","degree":"some college","courseType":"free/reduced","status":"none","math":28,"english":23,"bio":19}
+{"id":428,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":82,"english":75,"bio":77}
+{"id":429,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":41,"english":55,"bio":51}
+{"id":430,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":71,"english":60,"bio":61}
+{"id":431,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":47,"english":37,"bio":35}
+{"id":432,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":62,"english":56,"bio":53}
+{"id":433,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":90,"english":78,"bio":81}
+{"id":434,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":83,"english":93,"bio":95}
+{"id":435,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":61,"english":68,"bio":66}
+{"id":436,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":76,"english":70,"bio":69}
+{"id":437,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":49,"english":51,"bio":43}
+{"id":438,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"none","math":24,"english":38,"bio":27}
+{"id":439,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"completed","math":35,"english":55,"bio":60}
+{"id":440,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":58,"english":61,"bio":52}
+{"id":441,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":61,"english":73,"bio":63}
+{"id":442,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":69,"english":76,"bio":74}
+{"id":443,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":67,"english":72,"bio":67}
+{"id":444,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":79,"english":73,"bio":67}
+{"id":445,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":72,"english":80,"bio":75}
+{"id":446,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":62,"english":61,"bio":57}
+{"id":447,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":77,"english":94,"bio":95}
+{"id":448,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":75,"english":74,"bio":66}
+{"id":449,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":87,"english":74,"bio":76}
+{"id":450,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":52,"english":65,"bio":69}
+{"id":451,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":66,"english":57,"bio":52}
+{"id":452,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":63,"english":78,"bio":80}
+{"id":453,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":46,"english":58,"bio":57}
+{"id":454,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":59,"english":71,"bio":70}
+{"id":455,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":61,"english":72,"bio":70}
+{"id":456,"gender":"male","group":"group A","degree":"associate's degree","courseType":"standard","status":"none","math":63,"english":61,"bio":61}
+{"id":457,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":42,"english":66,"bio":69}
+{"id":458,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":59,"english":62,"bio":61}
+{"id":459,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":80,"english":90,"bio":89}
+{"id":460,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":58,"english":62,"bio":59}
+{"id":461,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":85,"english":84,"bio":78}
+{"id":462,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":52,"english":58,"bio":58}
+{"id":463,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":27,"english":34,"bio":32}
+{"id":464,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":59,"english":60,"bio":58}
+{"id":465,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":49,"english":58,"bio":60}
+{"id":466,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":69,"english":58,"bio":53}
+{"id":467,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":61,"english":66,"bio":61}
+{"id":468,"gender":"female","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":44,"english":64,"bio":58}
+{"id":469,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":73,"english":84,"bio":85}
+{"id":470,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":84,"english":77,"bio":71}
+{"id":471,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":45,"english":73,"bio":70}
+{"id":472,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":74,"english":74,"bio":72}
+{"id":473,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":82,"english":97,"bio":96}
+{"id":474,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":59,"english":70,"bio":73}
+{"id":475,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":46,"english":43,"bio":41}
+{"id":476,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":80,"english":90,"bio":82}
+{"id":477,"gender":"female","group":"group D","degree":"master's degree","courseType":"free/reduced","status":"completed","math":85,"english":95,"bio":100}
+{"id":478,"gender":"female","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":71,"english":83,"bio":77}
+{"id":479,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":66,"english":64,"bio":62}
+{"id":480,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":86,"bio":83}
+{"id":481,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":87,"english":100,"bio":95}
+{"id":482,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"none","math":79,"english":81,"bio":71}
+{"id":483,"gender":"female","group":"group E","degree":"some high school","courseType":"free/reduced","status":"none","math":38,"english":49,"bio":45}
+{"id":484,"gender":"female","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":38,"english":43,"bio":43}
+{"id":485,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":67,"english":76,"bio":75}
+{"id":486,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":64,"english":73,"bio":70}
+{"id":487,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":57,"english":78,"bio":67}
+{"id":488,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":62,"english":64,"bio":64}
+{"id":489,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":73,"english":70,"bio":75}
+{"id":490,"gender":"male","group":"group E","degree":"some high school","courseType":"free/reduced","status":"completed","math":73,"english":67,"bio":59}
+{"id":491,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":77,"english":68,"bio":77}
+{"id":492,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":76,"english":67,"bio":67}
+{"id":493,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":57,"english":54,"bio":56}
+{"id":494,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":65,"english":74,"bio":77}
+{"id":495,"gender":"male","group":"group A","degree":"high school","courseType":"free/reduced","status":"none","math":48,"english":45,"bio":41}
+{"id":496,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":50,"english":67,"bio":63}
+{"id":497,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":85,"english":89,"bio":95}
+{"id":498,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":74,"english":63,"bio":57}
+{"id":499,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":60,"english":59,"bio":54}
+{"id":500,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":59,"english":54,"bio":67}
+{"id":501,"gender":"male","group":"group A","degree":"some college","courseType":"standard","status":"none","math":53,"english":43,"bio":43}
+{"id":502,"gender":"female","group":"group A","degree":"some college","courseType":"free/reduced","status":"none","math":49,"english":65,"bio":55}
+{"id":503,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":88,"english":99,"bio":100}
+{"id":504,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":54,"english":59,"bio":62}
+{"id":505,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":63,"english":73,"bio":68}
+{"id":506,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":65,"english":65,"bio":63}
+{"id":507,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":82,"english":80,"bio":77}
+{"id":508,"gender":"female","group":"group D","degree":"high school","courseType":"free/reduced","status":"completed","math":52,"english":57,"bio":56}
+{"id":509,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":87,"english":84,"bio":85}
+{"id":510,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"completed","math":70,"english":71,"bio":74}
+{"id":511,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":84,"english":83,"bio":78}
+{"id":512,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":71,"english":66,"bio":60}
+{"id":513,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":63,"english":67,"bio":67}
+{"id":514,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":51,"english":72,"bio":79}
+{"id":515,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"none","math":84,"english":73,"bio":69}
+{"id":516,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":71,"english":74,"bio":68}
+{"id":517,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":74,"english":73,"bio":67}
+{"id":518,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":68,"english":59,"bio":62}
+{"id":519,"gender":"male","group":"group E","degree":"high school","courseType":"free/reduced","status":"completed","math":57,"english":56,"bio":54}
+{"id":520,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":82,"english":93,"bio":93}
+{"id":521,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":57,"english":58,"bio":64}
+{"id":522,"gender":"female","group":"group D","degree":"master's degree","courseType":"free/reduced","status":"completed","math":47,"english":58,"bio":67}
+{"id":523,"gender":"female","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":59,"english":85,"bio":80}
+{"id":524,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":41,"english":39,"bio":34}
+{"id":525,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":62,"english":67,"bio":62}
+{"id":526,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":86,"english":83,"bio":86}
+{"id":527,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":69,"english":71,"bio":65}
+{"id":528,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":65,"english":59,"bio":53}
+{"id":529,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":68,"english":63,"bio":54}
+{"id":530,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":64,"english":66,"bio":59}
+{"id":531,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":61,"english":72,"bio":70}
+{"id":532,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":61,"english":56,"bio":55}
+{"id":533,"gender":"female","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":47,"english":59,"bio":50}
+{"id":534,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":73,"english":66,"bio":66}
+{"id":535,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":50,"english":48,"bio":53}
+{"id":536,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":75,"english":68,"bio":64}
+{"id":537,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":75,"english":66,"bio":73}
+{"id":538,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":70,"english":56,"bio":51}
+{"id":539,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":89,"english":88,"bio":82}
+{"id":540,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":67,"english":81,"bio":79}
+{"id":541,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":78,"english":81,"bio":80}
+{"id":542,"gender":"female","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":59,"english":73,"bio":69}
+{"id":543,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":73,"english":83,"bio":76}
+{"id":544,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":79,"english":82,"bio":73}
+{"id":545,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":67,"english":74,"bio":77}
+{"id":546,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":69,"english":66,"bio":60}
+{"id":547,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":86,"english":81,"bio":80}
+{"id":548,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":47,"english":46,"bio":42}
+{"id":549,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":81,"english":73,"bio":72}
+{"id":550,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":64,"english":85,"bio":85}
+{"id":551,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":100,"english":92,"bio":97}
+{"id":552,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":65,"english":77,"bio":74}
+{"id":553,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":65,"english":58,"bio":49}
+{"id":554,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":53,"english":61,"bio":62}
+{"id":555,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":37,"english":56,"bio":47}
+{"id":556,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":79,"english":89,"bio":89}
+{"id":557,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":53,"english":54,"bio":48}
+{"id":558,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":100,"english":100,"bio":100}
+{"id":559,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":72,"english":65,"bio":68}
+{"id":560,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":53,"english":58,"bio":55}
+{"id":561,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":54,"english":54,"bio":45}
+{"id":562,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":71,"english":70,"bio":76}
+{"id":563,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":77,"english":90,"bio":91}
+{"id":564,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"completed","math":75,"english":58,"bio":62}
+{"id":565,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":84,"english":87,"bio":91}
+{"id":566,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":26,"english":31,"bio":38}
+{"id":567,"gender":"male","group":"group A","degree":"high school","courseType":"free/reduced","status":"completed","math":72,"english":67,"bio":65}
+{"id":568,"gender":"female","group":"group A","degree":"high school","courseType":"free/reduced","status":"completed","math":77,"english":88,"bio":85}
+{"id":569,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":91,"english":74,"bio":76}
+{"id":570,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":83,"english":85,"bio":90}
+{"id":571,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":63,"english":69,"bio":74}
+{"id":572,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":68,"english":86,"bio":84}
+{"id":573,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":59,"english":67,"bio":61}
+{"id":574,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":90,"english":90,"bio":91}
+{"id":575,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"completed","math":71,"english":76,"bio":83}
+{"id":576,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":76,"english":62,"bio":66}
+{"id":577,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":68,"bio":72}
+{"id":578,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":55,"english":64,"bio":70}
+{"id":579,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":76,"english":71,"bio":67}
+{"id":580,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":73,"english":71,"bio":68}
+{"id":581,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":52,"english":59,"bio":56}
+{"id":582,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":68,"english":68,"bio":61}
+{"id":583,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":59,"english":52,"bio":46}
+{"id":584,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":49,"english":52,"bio":54}
+{"id":585,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":70,"english":74,"bio":71}
+{"id":586,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":61,"english":47,"bio":56}
+{"id":587,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":60,"english":75,"bio":74}
+{"id":588,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":64,"english":53,"bio":57}
+{"id":589,"gender":"male","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":79,"english":82,"bio":82}
+{"id":590,"gender":"female","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"none","math":65,"english":85,"bio":76}
+{"id":591,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":64,"english":64,"bio":70}
+{"id":592,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":83,"english":83,"bio":90}
+{"id":593,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":81,"english":88,"bio":90}
+{"id":594,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":54,"english":64,"bio":68}
+{"id":595,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":68,"english":64,"bio":66}
+{"id":596,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":54,"english":48,"bio":52}
+{"id":597,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":59,"english":78,"bio":76}
+{"id":598,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":66,"english":69,"bio":68}
+{"id":599,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":76,"english":71,"bio":72}
+{"id":600,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":74,"english":79,"bio":82}
+{"id":601,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":94,"english":87,"bio":92}
+{"id":602,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":63,"english":61,"bio":54}
+{"id":603,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":95,"english":89,"bio":92}
+{"id":604,"gender":"female","group":"group D","degree":"master's degree","courseType":"free/reduced","status":"none","math":40,"english":59,"bio":54}
+{"id":605,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":82,"english":82,"bio":80}
+{"id":606,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":68,"english":70,"bio":66}
+{"id":607,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":55,"english":59,"bio":54}
+{"id":608,"gender":"male","group":"group C","degree":"master's degree","courseType":"standard","status":"none","math":79,"english":78,"bio":77}
+{"id":609,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":86,"english":92,"bio":87}
+{"id":610,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":76,"english":71,"bio":73}
+{"id":611,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":64,"english":50,"bio":43}
+{"id":612,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":62,"english":49,"bio":52}
+{"id":613,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":54,"english":61,"bio":62}
+{"id":614,"gender":"female","group":"group B","degree":"master's degree","courseType":"free/reduced","status":"completed","math":77,"english":97,"bio":94}
+{"id":615,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":76,"english":87,"bio":85}
+{"id":616,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":74,"english":89,"bio":84}
+{"id":617,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":66,"english":74,"bio":73}
+{"id":618,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":66,"english":78,"bio":78}
+{"id":619,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"completed","math":67,"english":78,"bio":79}
+{"id":620,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":71,"english":49,"bio":52}
+{"id":621,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":91,"english":86,"bio":84}
+{"id":622,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":69,"english":58,"bio":57}
+{"id":623,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"none","math":54,"english":59,"bio":50}
+{"id":624,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":53,"english":52,"bio":49}
+{"id":625,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":68,"english":60,"bio":59}
+{"id":626,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":56,"english":61,"bio":60}
+{"id":627,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":36,"english":53,"bio":43}
+{"id":628,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":29,"english":41,"bio":47}
+{"id":629,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":62,"english":74,"bio":70}
+{"id":630,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":68,"english":67,"bio":73}
+{"id":631,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":47,"english":54,"bio":53}
+{"id":632,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":62,"english":61,"bio":58}
+{"id":633,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":79,"english":88,"bio":94}
+{"id":634,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":73,"english":69,"bio":68}
+{"id":635,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":66,"english":83,"bio":83}
+{"id":636,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":51,"english":60,"bio":58}
+{"id":637,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":51,"english":66,"bio":62}
+{"id":638,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":85,"english":66,"bio":71}
+{"id":639,"gender":"male","group":"group A","degree":"associate's degree","courseType":"standard","status":"completed","math":97,"english":92,"bio":86}
+{"id":640,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":75,"english":69,"bio":68}
+{"id":641,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":79,"english":82,"bio":80}
+{"id":642,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":81,"english":77,"bio":79}
+{"id":643,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":82,"english":95,"bio":89}
+{"id":644,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":64,"english":63,"bio":66}
+{"id":645,"gender":"male","group":"group E","degree":"some high school","courseType":"free/reduced","status":"completed","math":78,"english":83,"bio":80}
+{"id":646,"gender":"female","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":92,"english":100,"bio":97}
+{"id":647,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":72,"english":67,"bio":64}
+{"id":648,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":62,"english":67,"bio":64}
+{"id":649,"gender":"male","group":"group C","degree":"master's degree","courseType":"standard","status":"none","math":79,"english":72,"bio":69}
+{"id":650,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":79,"english":76,"bio":65}
+{"id":651,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":87,"english":90,"bio":88}
+{"id":652,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":40,"english":48,"bio":50}
+{"id":653,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":77,"english":62,"bio":64}
+{"id":654,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":53,"english":45,"bio":40}
+{"id":655,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":32,"english":39,"bio":33}
+{"id":656,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":55,"english":72,"bio":79}
+{"id":657,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"none","math":61,"english":67,"bio":66}
+{"id":658,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":53,"english":70,"bio":70}
+{"id":659,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":73,"english":66,"bio":62}
+{"id":660,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":74,"english":75,"bio":79}
+{"id":661,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":63,"english":74,"bio":74}
+{"id":662,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":96,"english":90,"bio":92}
+{"id":663,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":63,"english":80,"bio":80}
+{"id":664,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":48,"english":51,"bio":46}
+{"id":665,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":48,"english":43,"bio":45}
+{"id":666,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":92,"english":100,"bio":100}
+{"id":667,"gender":"female","group":"group D","degree":"master's degree","courseType":"free/reduced","status":"completed","math":61,"english":71,"bio":78}
+{"id":668,"gender":"male","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":63,"english":48,"bio":47}
+{"id":669,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":68,"english":68,"bio":67}
+{"id":670,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":71,"english":75,"bio":70}
+{"id":671,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":91,"english":96,"bio":92}
+{"id":672,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":53,"english":62,"bio":56}
+{"id":673,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":50,"english":66,"bio":64}
+{"id":674,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"none","math":74,"english":81,"bio":71}
+{"id":675,"gender":"male","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":40,"english":55,"bio":53}
+{"id":676,"gender":"male","group":"group A","degree":"some college","courseType":"standard","status":"completed","math":61,"english":51,"bio":52}
+{"id":677,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":81,"english":91,"bio":89}
+{"id":678,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":48,"english":56,"bio":58}
+{"id":679,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":53,"english":61,"bio":68}
+{"id":680,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":81,"english":97,"bio":96}
+{"id":681,"gender":"female","group":"group E","degree":"some high school","courseType":"standard","status":"none","math":77,"english":79,"bio":80}
+{"id":682,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":63,"english":73,"bio":78}
+{"id":683,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":73,"english":75,"bio":80}
+{"id":684,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":69,"english":77,"bio":77}
+{"id":685,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":65,"english":76,"bio":76}
+{"id":686,"gender":"female","group":"group A","degree":"high school","courseType":"standard","status":"none","math":55,"english":73,"bio":73}
+{"id":687,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":44,"english":63,"bio":62}
+{"id":688,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":54,"english":64,"bio":65}
+{"id":689,"gender":"female","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":48,"english":66,"bio":65}
+{"id":690,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":58,"english":57,"bio":54}
+{"id":691,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":71,"english":62,"bio":50}
+{"id":692,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":68,"english":68,"bio":64}
+{"id":693,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"none","math":74,"english":76,"bio":73}
+{"id":694,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":92,"english":100,"bio":99}
+{"id":695,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":56,"english":79,"bio":72}
+{"id":696,"gender":"male","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":30,"english":24,"bio":15}
+{"id":697,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":53,"english":54,"bio":48}
+{"id":698,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":69,"english":77,"bio":73}
+{"id":699,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":65,"english":82,"bio":81}
+{"id":700,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":54,"english":60,"bio":63}
+{"id":701,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":29,"english":29,"bio":30}
+{"id":702,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":76,"english":78,"bio":80}
+{"id":703,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":60,"english":57,"bio":51}
+{"id":704,"gender":"male","group":"group D","degree":"master's degree","courseType":"free/reduced","status":"completed","math":84,"english":89,"bio":90}
+{"id":705,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":75,"english":72,"bio":62}
+{"id":706,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":85,"english":84,"bio":82}
+{"id":707,"gender":"female","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"none","math":40,"english":58,"bio":54}
+{"id":708,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":61,"english":64,"bio":62}
+{"id":709,"gender":"female","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":58,"english":63,"bio":65}
+{"id":710,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":69,"english":60,"bio":63}
+{"id":711,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":58,"english":59,"bio":66}
+{"id":712,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":94,"english":90,"bio":91}
+{"id":713,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":65,"english":77,"bio":74}
+{"id":714,"gender":"female","group":"group A","degree":"associate's degree","courseType":"standard","status":"none","math":82,"english":93,"bio":93}
+{"id":715,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":60,"english":68,"bio":72}
+{"id":716,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"none","math":37,"english":45,"bio":38}
+{"id":717,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":88,"english":78,"bio":83}
+{"id":718,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":95,"english":81,"bio":84}
+{"id":719,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":65,"english":73,"bio":68}
+{"id":720,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":35,"english":61,"bio":54}
+{"id":721,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":62,"english":63,"bio":56}
+{"id":722,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":58,"english":51,"bio":52}
+{"id":723,"gender":"male","group":"group A","degree":"some college","courseType":"standard","status":"completed","math":100,"english":96,"bio":86}
+{"id":724,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":61,"english":58,"bio":62}
+{"id":725,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":100,"english":97,"bio":99}
+{"id":726,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":69,"english":70,"bio":63}
+{"id":727,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":61,"english":48,"bio":46}
+{"id":728,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":49,"english":57,"bio":46}
+{"id":729,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":44,"english":51,"bio":55}
+{"id":730,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":67,"english":64,"bio":70}
+{"id":731,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":79,"english":60,"bio":65}
+{"id":732,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"completed","math":66,"english":74,"bio":81}
+{"id":733,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":75,"english":88,"bio":85}
+{"id":734,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":84,"english":84,"bio":80}
+{"id":735,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":71,"english":74,"bio":64}
+{"id":736,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"completed","math":67,"english":80,"bio":81}
+{"id":737,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":80,"english":92,"bio":88}
+{"id":738,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":86,"english":76,"bio":74}
+{"id":739,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":76,"english":74,"bio":73}
+{"id":740,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":41,"english":52,"bio":51}
+{"id":741,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":74,"english":88,"bio":90}
+{"id":742,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"none","math":72,"english":81,"bio":79}
+{"id":743,"gender":"female","group":"group E","degree":"high school","courseType":"standard","status":"completed","math":74,"english":79,"bio":80}
+{"id":744,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":70,"english":65,"bio":60}
+{"id":745,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"completed","math":65,"english":81,"bio":81}
+{"id":746,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":59,"english":70,"bio":65}
+{"id":747,"gender":"female","group":"group E","degree":"high school","courseType":"free/reduced","status":"none","math":64,"english":62,"bio":68}
+{"id":748,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":50,"english":53,"bio":55}
+{"id":749,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":69,"english":79,"bio":81}
+{"id":750,"gender":"male","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":51,"english":56,"bio":53}
+{"id":751,"gender":"female","group":"group A","degree":"high school","courseType":"standard","status":"completed","math":68,"english":80,"bio":76}
+{"id":752,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":85,"english":86,"bio":98}
+{"id":753,"gender":"female","group":"group A","degree":"associate's degree","courseType":"standard","status":"completed","math":65,"english":70,"bio":74}
+{"id":754,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":73,"english":79,"bio":79}
+{"id":755,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":62,"english":67,"bio":67}
+{"id":756,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":77,"english":67,"bio":64}
+{"id":757,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":69,"english":66,"bio":61}
+{"id":758,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":43,"english":60,"bio":58}
+{"id":759,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":90,"english":87,"bio":85}
+{"id":760,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":74,"english":77,"bio":73}
+{"id":761,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":73,"english":66,"bio":63}
+{"id":762,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":55,"english":71,"bio":69}
+{"id":763,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":65,"english":69,"bio":67}
+{"id":764,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":63,"bio":63}
+{"id":765,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":50,"english":60,"bio":60}
+{"id":766,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":63,"english":73,"bio":71}
+{"id":767,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":77,"english":85,"bio":87}
+{"id":768,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":73,"english":74,"bio":61}
+{"id":769,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":81,"english":72,"bio":77}
+{"id":770,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":66,"english":76,"bio":68}
+{"id":771,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":52,"english":57,"bio":50}
+{"id":772,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":69,"english":78,"bio":76}
+{"id":773,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":65,"english":84,"bio":84}
+{"id":774,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":69,"english":77,"bio":78}
+{"id":775,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":50,"english":64,"bio":66}
+{"id":776,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":73,"english":78,"bio":76}
+{"id":777,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":70,"english":82,"bio":76}
+{"id":778,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":81,"english":75,"bio":78}
+{"id":779,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":63,"english":61,"bio":60}
+{"id":780,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":67,"english":72,"bio":74}
+{"id":781,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":60,"english":68,"bio":60}
+{"id":782,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":62,"english":55,"bio":54}
+{"id":783,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":29,"english":40,"bio":44}
+{"id":784,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":62,"english":66,"bio":68}
+{"id":785,"gender":"female","group":"group E","degree":"master's degree","courseType":"standard","status":"completed","math":94,"english":99,"bio":100}
+{"id":786,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":85,"english":75,"bio":68}
+{"id":787,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":77,"english":78,"bio":73}
+{"id":788,"gender":"male","group":"group A","degree":"high school","courseType":"free/reduced","status":"none","math":53,"english":58,"bio":44}
+{"id":789,"gender":"male","group":"group E","degree":"some college","courseType":"free/reduced","status":"none","math":93,"english":90,"bio":83}
+{"id":790,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":49,"english":53,"bio":53}
+{"id":791,"gender":"female","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":73,"english":76,"bio":78}
+{"id":792,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":66,"english":74,"bio":81}
+{"id":793,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":77,"english":77,"bio":73}
+{"id":794,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":49,"english":63,"bio":56}
+{"id":795,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":79,"english":89,"bio":86}
+{"id":796,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":75,"english":82,"bio":90}
+{"id":797,"gender":"female","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":59,"english":72,"bio":70}
+{"id":798,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":57,"english":78,"bio":79}
+{"id":799,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":66,"english":66,"bio":59}
+{"id":800,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":79,"english":81,"bio":82}
+{"id":801,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":57,"english":67,"bio":72}
+{"id":802,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"completed","math":87,"english":84,"bio":87}
+{"id":803,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":63,"english":64,"bio":67}
+{"id":804,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"completed","math":59,"english":63,"bio":64}
+{"id":805,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":62,"english":72,"bio":65}
+{"id":806,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":46,"english":34,"bio":36}
+{"id":807,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":66,"english":59,"bio":52}
+{"id":808,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":89,"english":87,"bio":79}
+{"id":809,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":42,"english":61,"bio":58}
+{"id":810,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":93,"english":84,"bio":90}
+{"id":811,"gender":"female","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":80,"english":85,"bio":85}
+{"id":812,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":98,"english":100,"bio":99}
+{"id":813,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":81,"english":81,"bio":84}
+{"id":814,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":60,"english":70,"bio":74}
+{"id":815,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":76,"english":94,"bio":87}
+{"id":816,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":73,"english":78,"bio":72}
+{"id":817,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":96,"english":96,"bio":99}
+{"id":818,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":76,"english":76,"bio":74}
+{"id":819,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":91,"english":73,"bio":80}
+{"id":820,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":62,"english":72,"bio":70}
+{"id":821,"gender":"male","group":"group D","degree":"some high school","courseType":"free/reduced","status":"completed","math":55,"english":59,"bio":59}
+{"id":822,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"completed","math":74,"english":90,"bio":88}
+{"id":823,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":50,"english":48,"bio":42}
+{"id":824,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":47,"english":43,"bio":41}
+{"id":825,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":81,"english":74,"bio":71}
+{"id":826,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":65,"english":75,"bio":77}
+{"id":827,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":68,"english":51,"bio":57}
+{"id":828,"gender":"female","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":73,"english":92,"bio":84}
+{"id":829,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":53,"english":39,"bio":37}
+{"id":830,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":68,"english":77,"bio":80}
+{"id":831,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":55,"english":46,"bio":43}
+{"id":832,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":87,"english":89,"bio":94}
+{"id":833,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":55,"english":47,"bio":44}
+{"id":834,"gender":"female","group":"group E","degree":"some college","courseType":"free/reduced","status":"none","math":53,"english":58,"bio":57}
+{"id":835,"gender":"male","group":"group C","degree":"master's degree","courseType":"standard","status":"none","math":67,"english":57,"bio":59}
+{"id":836,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":92,"english":79,"bio":84}
+{"id":837,"gender":"female","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":53,"english":66,"bio":73}
+{"id":838,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":81,"english":71,"bio":73}
+{"id":839,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":61,"english":60,"bio":55}
+{"id":840,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":80,"english":73,"bio":72}
+{"id":841,"gender":"female","group":"group A","degree":"associate's degree","courseType":"free/reduced","status":"none","math":37,"english":57,"bio":56}
+{"id":842,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":81,"english":84,"bio":82}
+{"id":843,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":59,"english":73,"bio":72}
+{"id":844,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":55,"english":55,"bio":47}
+{"id":845,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":72,"english":79,"bio":74}
+{"id":846,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":69,"english":75,"bio":71}
+{"id":847,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":69,"english":64,"bio":68}
+{"id":848,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":50,"english":60,"bio":59}
+{"id":849,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":87,"english":84,"bio":86}
+{"id":850,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":71,"english":69,"bio":68}
+{"id":851,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":68,"english":72,"bio":65}
+{"id":852,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"completed","math":79,"english":77,"bio":75}
+{"id":853,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":77,"english":90,"bio":85}
+{"id":854,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":58,"english":55,"bio":53}
+{"id":855,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":84,"english":95,"bio":92}
+{"id":856,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":55,"english":58,"bio":52}
+{"id":857,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":70,"english":68,"bio":72}
+{"id":858,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":52,"english":59,"bio":65}
+{"id":859,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":69,"english":77,"bio":77}
+{"id":860,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":53,"english":72,"bio":64}
+{"id":861,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":48,"english":58,"bio":54}
+{"id":862,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":78,"english":81,"bio":86}
+{"id":863,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":62,"english":62,"bio":63}
+{"id":864,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":60,"english":63,"bio":59}
+{"id":865,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":74,"english":72,"bio":72}
+{"id":866,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":58,"english":75,"bio":77}
+{"id":867,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":76,"english":62,"bio":60}
+{"id":868,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":68,"english":71,"bio":75}
+{"id":869,"gender":"male","group":"group A","degree":"some college","courseType":"free/reduced","status":"none","math":58,"english":60,"bio":57}
+{"id":870,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":52,"english":48,"bio":49}
+{"id":871,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":75,"english":73,"bio":74}
+{"id":872,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"completed","math":52,"english":67,"bio":72}
+{"id":873,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":62,"english":78,"bio":79}
+{"id":874,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":66,"english":65,"bio":60}
+{"id":875,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"none","math":49,"english":58,"bio":55}
+{"id":876,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":66,"english":72,"bio":70}
+{"id":877,"gender":"female","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":35,"english":44,"bio":43}
+{"id":878,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"completed","math":72,"english":79,"bio":82}
+{"id":879,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":94,"english":85,"bio":82}
+{"id":880,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":46,"english":56,"bio":57}
+{"id":881,"gender":"female","group":"group B","degree":"master's degree","courseType":"standard","status":"none","math":77,"english":90,"bio":84}
+{"id":882,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"completed","math":76,"english":85,"bio":82}
+{"id":883,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":52,"english":59,"bio":62}
+{"id":884,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":91,"english":81,"bio":79}
+{"id":885,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":32,"english":51,"bio":44}
+{"id":886,"gender":"female","group":"group E","degree":"some high school","courseType":"free/reduced","status":"none","math":72,"english":79,"bio":77}
+{"id":887,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":19,"english":38,"bio":32}
+{"id":888,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":68,"english":65,"bio":61}
+{"id":889,"gender":"female","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"none","math":52,"english":65,"bio":61}
+{"id":890,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":48,"english":62,"bio":60}
+{"id":891,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":60,"english":66,"bio":70}
+{"id":892,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":66,"english":74,"bio":69}
+{"id":893,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":89,"english":84,"bio":77}
+{"id":894,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":42,"english":52,"bio":51}
+{"id":895,"gender":"female","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":57,"english":68,"bio":73}
+{"id":896,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":70,"english":70,"bio":70}
+{"id":897,"gender":"female","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":70,"english":84,"bio":81}
+{"id":898,"gender":"male","group":"group E","degree":"some college","courseType":"standard","status":"none","math":69,"english":60,"bio":54}
+{"id":899,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":52,"english":55,"bio":57}
+{"id":900,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":67,"english":73,"bio":68}
+{"id":901,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":76,"english":80,"bio":73}
+{"id":902,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":87,"english":94,"bio":95}
+{"id":903,"gender":"female","group":"group B","degree":"some college","courseType":"standard","status":"none","math":82,"english":85,"bio":87}
+{"id":904,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":73,"english":76,"bio":78}
+{"id":905,"gender":"male","group":"group A","degree":"some college","courseType":"free/reduced","status":"none","math":75,"english":81,"bio":74}
+{"id":906,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":64,"english":74,"bio":75}
+{"id":907,"gender":"female","group":"group E","degree":"high school","courseType":"free/reduced","status":"none","math":41,"english":45,"bio":40}
+{"id":908,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":90,"english":75,"bio":69}
+{"id":909,"gender":"male","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":59,"english":54,"bio":51}
+{"id":910,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"none","math":51,"english":31,"bio":36}
+{"id":911,"gender":"male","group":"group A","degree":"high school","courseType":"free/reduced","status":"none","math":45,"english":47,"bio":49}
+{"id":912,"gender":"female","group":"group C","degree":"master's degree","courseType":"standard","status":"completed","math":54,"english":64,"bio":67}
+{"id":913,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":87,"english":84,"bio":76}
+{"id":914,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":72,"english":80,"bio":83}
+{"id":915,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":94,"english":86,"bio":87}
+{"id":916,"gender":"female","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":45,"english":59,"bio":64}
+{"id":917,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":61,"english":70,"bio":76}
+{"id":918,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":60,"english":72,"bio":68}
+{"id":919,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":77,"english":91,"bio":88}
+{"id":920,"gender":"female","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":85,"english":90,"bio":92}
+{"id":921,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":78,"english":90,"bio":93}
+{"id":922,"gender":"male","group":"group E","degree":"some college","courseType":"free/reduced","status":"completed","math":49,"english":52,"bio":51}
+{"id":923,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":71,"english":87,"bio":82}
+{"id":924,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":48,"english":58,"bio":52}
+{"id":925,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":62,"english":67,"bio":58}
+{"id":926,"gender":"female","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":56,"english":68,"bio":70}
+{"id":927,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":65,"english":69,"bio":76}
+{"id":928,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"completed","math":69,"english":86,"bio":81}
+{"id":929,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"none","math":68,"english":54,"bio":53}
+{"id":930,"gender":"female","group":"group A","degree":"some college","courseType":"free/reduced","status":"none","math":61,"english":60,"bio":57}
+{"id":931,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":74,"english":86,"bio":89}
+{"id":932,"gender":"male","group":"group A","degree":"bachelor's degree","courseType":"standard","status":"none","math":64,"english":60,"bio":58}
+{"id":933,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":77,"english":82,"bio":89}
+{"id":934,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"none","math":58,"english":50,"bio":45}
+{"id":935,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":60,"english":64,"bio":74}
+{"id":936,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"none","math":73,"english":64,"bio":57}
+{"id":937,"gender":"female","group":"group A","degree":"high school","courseType":"standard","status":"completed","math":75,"english":82,"bio":79}
+{"id":938,"gender":"male","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":58,"english":57,"bio":53}
+{"id":939,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":66,"english":77,"bio":73}
+{"id":940,"gender":"female","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":39,"english":52,"bio":46}
+{"id":941,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":64,"english":58,"bio":51}
+{"id":942,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"completed","math":23,"english":44,"bio":36}
+{"id":943,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":74,"english":77,"bio":76}
+{"id":944,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"completed","math":40,"english":65,"bio":64}
+{"id":945,"gender":"male","group":"group E","degree":"master's degree","courseType":"standard","status":"none","math":90,"english":85,"bio":84}
+{"id":946,"gender":"male","group":"group C","degree":"master's degree","courseType":"standard","status":"completed","math":91,"english":85,"bio":85}
+{"id":947,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":64,"english":54,"bio":50}
+{"id":948,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":59,"english":72,"bio":68}
+{"id":949,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":80,"english":75,"bio":69}
+{"id":950,"gender":"male","group":"group C","degree":"master's degree","courseType":"standard","status":"none","math":71,"english":67,"bio":67}
+{"id":951,"gender":"female","group":"group A","degree":"high school","courseType":"standard","status":"none","math":61,"english":68,"bio":63}
+{"id":952,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":87,"english":85,"bio":93}
+{"id":953,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"none","math":82,"english":67,"bio":61}
+{"id":954,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":62,"english":64,"bio":55}
+{"id":955,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":97,"english":97,"bio":96}
+{"id":956,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"none","math":75,"english":68,"bio":65}
+{"id":957,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"none","math":65,"english":79,"bio":81}
+{"id":958,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"completed","math":52,"english":49,"bio":46}
+{"id":959,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":87,"english":73,"bio":72}
+{"id":960,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":53,"english":62,"bio":53}
+{"id":961,"gender":"female","group":"group E","degree":"master's degree","courseType":"free/reduced","status":"none","math":81,"english":86,"bio":87}
+{"id":962,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":39,"english":42,"bio":38}
+{"id":963,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":71,"english":71,"bio":80}
+{"id":964,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":97,"english":93,"bio":91}
+{"id":965,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":82,"english":82,"bio":88}
+{"id":966,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":59,"english":53,"bio":52}
+{"id":967,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"none","math":61,"english":42,"bio":41}
+{"id":968,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":78,"english":74,"bio":72}
+{"id":969,"gender":"male","group":"group C","degree":"associate's degree","courseType":"free/reduced","status":"none","math":49,"english":51,"bio":51}
+{"id":970,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":59,"english":58,"bio":47}
+{"id":971,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":70,"english":72,"bio":76}
+{"id":972,"gender":"male","group":"group B","degree":"associate's degree","courseType":"standard","status":"completed","math":82,"english":84,"bio":78}
+{"id":973,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":90,"english":90,"bio":82}
+{"id":974,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":43,"english":62,"bio":61}
+{"id":975,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"none","math":80,"english":64,"bio":66}
+{"id":976,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":81,"english":82,"bio":84}
+{"id":977,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":57,"english":61,"bio":54}
+{"id":978,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":59,"english":72,"bio":80}
+{"id":979,"gender":"female","group":"group D","degree":"associate's degree","courseType":"standard","status":"none","math":64,"english":76,"bio":74}
+{"id":980,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":63,"english":64,"bio":66}
+{"id":981,"gender":"female","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":71,"english":70,"bio":70}
+{"id":982,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":64,"english":73,"bio":71}
+{"id":983,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":55,"english":46,"bio":44}
+{"id":984,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":51,"english":51,"bio":54}
+{"id":985,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":62,"english":76,"bio":80}
+{"id":986,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"completed","math":93,"english":100,"bio":95}
+{"id":987,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":54,"english":72,"bio":59}
+{"id":988,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":69,"english":65,"bio":74}
+{"id":989,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":44,"english":51,"bio":48}
+{"id":990,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"completed","math":86,"english":85,"bio":91}
+{"id":991,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":85,"english":92,"bio":85}
+{"id":992,"gender":"female","group":"group A","degree":"master's degree","courseType":"free/reduced","status":"none","math":50,"english":67,"bio":73}
+{"id":993,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":88,"english":74,"bio":75}
+{"id":994,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":59,"english":62,"bio":69}
+{"id":995,"gender":"female","group":"group E","degree":"some high school","courseType":"free/reduced","status":"none","math":32,"english":34,"bio":38}
+{"id":996,"gender":"male","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":36,"english":29,"bio":27}
+{"id":997,"gender":"female","group":"group B","degree":"some high school","courseType":"free/reduced","status":"completed","math":63,"english":78,"bio":79}
+{"id":998,"gender":"male","group":"group D","degree":"associate's degree","courseType":"standard","status":"completed","math":67,"english":54,"bio":63}
+{"id":999,"gender":"female","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":65,"english":78,"bio":82}
+{"id":1000,"gender":"male","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":85,"english":84,"bio":89}
+{"id":1001,"gender":"female","group":"group C","degree":"master's degree","courseType":"standard","status":"none","math":73,"english":78,"bio":74}
+{"id":1002,"gender":"female","group":"group A","degree":"high school","courseType":"free/reduced","status":"completed","math":34,"english":48,"bio":41}
+{"id":1003,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":93,"english":100,"bio":100}
+{"id":1004,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":67,"english":84,"bio":84}
+{"id":1005,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":88,"english":77,"bio":77}
+{"id":1006,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":57,"english":48,"bio":51}
+{"id":1007,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":79,"english":84,"bio":91}
+{"id":1008,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":67,"english":75,"bio":72}
+{"id":1009,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":70,"english":64,"bio":70}
+{"id":1010,"gender":"male","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":50,"english":42,"bio":48}
+{"id":1011,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"none","math":69,"english":84,"bio":82}
+{"id":1012,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"standard","status":"completed","math":52,"english":61,"bio":66}
+{"id":1013,"gender":"female","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":47,"english":62,"bio":66}
+{"id":1014,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":46,"english":61,"bio":55}
+{"id":1015,"gender":"female","group":"group E","degree":"some college","courseType":"standard","status":"none","math":68,"english":70,"bio":66}
+{"id":1016,"gender":"male","group":"group E","degree":"bachelor's degree","courseType":"standard","status":"completed","math":100,"english":100,"bio":100}
+{"id":1017,"gender":"female","group":"group C","degree":"high school","courseType":"standard","status":"none","math":44,"english":61,"bio":52}
+{"id":1018,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":57,"english":77,"bio":80}
+{"id":1019,"gender":"male","group":"group B","degree":"some college","courseType":"standard","status":"completed","math":91,"english":96,"bio":91}
+{"id":1020,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":69,"english":70,"bio":67}
+{"id":1021,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":35,"english":53,"bio":46}
+{"id":1022,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"none","math":72,"english":66,"bio":66}
+{"id":1023,"gender":"female","group":"group B","degree":"associate's degree","courseType":"free/reduced","status":"none","math":54,"english":65,"bio":65}
+{"id":1024,"gender":"male","group":"group D","degree":"high school","courseType":"free/reduced","status":"none","math":74,"english":70,"bio":69}
+{"id":1025,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":74,"english":64,"bio":60}
+{"id":1026,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"none","math":64,"english":56,"bio":52}
+{"id":1027,"gender":"female","group":"group D","degree":"high school","courseType":"free/reduced","status":"completed","math":65,"english":61,"bio":71}
+{"id":1028,"gender":"male","group":"group E","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":46,"english":43,"bio":44}
+{"id":1029,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"none","math":48,"english":56,"bio":51}
+{"id":1030,"gender":"male","group":"group C","degree":"some college","courseType":"free/reduced","status":"completed","math":67,"english":74,"bio":70}
+{"id":1031,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":62,"english":57,"bio":62}
+{"id":1032,"gender":"male","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"completed","math":61,"english":71,"bio":73}
+{"id":1033,"gender":"male","group":"group C","degree":"bachelor's degree","courseType":"free/reduced","status":"completed","math":70,"english":75,"bio":74}
+{"id":1034,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"completed","math":98,"english":87,"bio":90}
+{"id":1035,"gender":"male","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":70,"english":63,"bio":58}
+{"id":1036,"gender":"male","group":"group A","degree":"associate's degree","courseType":"standard","status":"none","math":67,"english":57,"bio":53}
+{"id":1037,"gender":"female","group":"group E","degree":"high school","courseType":"free/reduced","status":"none","math":57,"english":58,"bio":57}
+{"id":1038,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":85,"english":81,"bio":85}
+{"id":1039,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"completed","math":77,"english":68,"bio":69}
+{"id":1040,"gender":"male","group":"group C","degree":"master's degree","courseType":"free/reduced","status":"completed","math":72,"english":66,"bio":72}
+{"id":1041,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":78,"english":91,"bio":96}
+{"id":1042,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":81,"english":66,"bio":64}
+{"id":1043,"gender":"male","group":"group A","degree":"some high school","courseType":"free/reduced","status":"completed","math":61,"english":62,"bio":61}
+{"id":1044,"gender":"female","group":"group B","degree":"high school","courseType":"standard","status":"none","math":58,"english":68,"bio":61}
+{"id":1045,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":54,"english":61,"bio":58}
+{"id":1046,"gender":"male","group":"group B","degree":"high school","courseType":"standard","status":"none","math":82,"english":82,"bio":80}
+{"id":1047,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":49,"english":58,"bio":60}
+{"id":1048,"gender":"male","group":"group B","degree":"some high school","courseType":"free/reduced","status":"completed","math":49,"english":50,"bio":52}
+{"id":1049,"gender":"female","group":"group E","degree":"high school","courseType":"free/reduced","status":"completed","math":57,"english":75,"bio":73}
+{"id":1050,"gender":"male","group":"group E","degree":"high school","courseType":"standard","status":"none","math":94,"english":73,"bio":71}
+{"id":1051,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":75,"english":77,"bio":83}
+{"id":1052,"gender":"female","group":"group E","degree":"some high school","courseType":"free/reduced","status":"none","math":74,"english":74,"bio":72}
+{"id":1053,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"completed","math":58,"english":52,"bio":54}
+{"id":1054,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"none","math":62,"english":69,"bio":69}
+{"id":1055,"gender":"male","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":72,"english":57,"bio":62}
+{"id":1056,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":84,"english":87,"bio":81}
+{"id":1057,"gender":"female","group":"group D","degree":"master's degree","courseType":"standard","status":"none","math":92,"english":100,"bio":100}
+{"id":1058,"gender":"female","group":"group D","degree":"high school","courseType":"standard","status":"none","math":45,"english":63,"bio":59}
+{"id":1059,"gender":"male","group":"group C","degree":"high school","courseType":"standard","status":"none","math":75,"english":81,"bio":71}
+{"id":1060,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"none","math":56,"english":58,"bio":64}
+{"id":1061,"gender":"female","group":"group D","degree":"some high school","courseType":"free/reduced","status":"none","math":48,"english":54,"bio":53}
+{"id":1062,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":100,"english":100,"bio":100}
+{"id":1063,"gender":"female","group":"group C","degree":"some high school","courseType":"free/reduced","status":"completed","math":65,"english":76,"bio":75}
+{"id":1064,"gender":"male","group":"group D","degree":"some college","courseType":"standard","status":"none","math":72,"english":57,"bio":58}
+{"id":1065,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"none","math":62,"english":70,"bio":72}
+{"id":1066,"gender":"male","group":"group A","degree":"some high school","courseType":"standard","status":"completed","math":66,"english":68,"bio":64}
+{"id":1067,"gender":"male","group":"group C","degree":"some college","courseType":"standard","status":"none","math":63,"english":63,"bio":60}
+{"id":1068,"gender":"female","group":"group E","degree":"associate's degree","courseType":"standard","status":"none","math":68,"english":76,"bio":67}
+{"id":1069,"gender":"female","group":"group B","degree":"bachelor's degree","courseType":"standard","status":"none","math":75,"english":84,"bio":80}
+{"id":1070,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"standard","status":"none","math":89,"english":100,"bio":100}
+{"id":1071,"gender":"male","group":"group C","degree":"some high school","courseType":"standard","status":"completed","math":78,"english":72,"bio":69}
+{"id":1072,"gender":"female","group":"group A","degree":"high school","courseType":"free/reduced","status":"completed","math":53,"english":50,"bio":60}
+{"id":1073,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":49,"english":65,"bio":61}
+{"id":1074,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"none","math":54,"english":63,"bio":67}
+{"id":1075,"gender":"female","group":"group C","degree":"some college","courseType":"standard","status":"completed","math":64,"english":82,"bio":77}
+{"id":1076,"gender":"male","group":"group B","degree":"some college","courseType":"free/reduced","status":"completed","math":60,"english":62,"bio":60}
+{"id":1077,"gender":"male","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":62,"english":65,"bio":58}
+{"id":1078,"gender":"male","group":"group D","degree":"high school","courseType":"standard","status":"completed","math":55,"english":41,"bio":48}
+{"id":1079,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":91,"english":95,"bio":94}
+{"id":1080,"gender":"female","group":"group B","degree":"high school","courseType":"free/reduced","status":"none","math":8,"english":24,"bio":23}
+{"id":1081,"gender":"male","group":"group D","degree":"some high school","courseType":"standard","status":"none","math":81,"english":78,"bio":78}
+{"id":1082,"gender":"male","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":79,"english":85,"bio":86}
+{"id":1083,"gender":"female","group":"group A","degree":"some college","courseType":"standard","status":"completed","math":78,"english":87,"bio":91}
+{"id":1084,"gender":"female","group":"group C","degree":"some high school","courseType":"standard","status":"none","math":74,"english":75,"bio":82}
+{"id":1085,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":57,"english":51,"bio":54}
+{"id":1086,"gender":"female","group":"group C","degree":"associate's degree","courseType":"standard","status":"none","math":40,"english":59,"bio":51}
+{"id":1087,"gender":"male","group":"group E","degree":"some high school","courseType":"standard","status":"completed","math":81,"english":75,"bio":76}
+{"id":1088,"gender":"female","group":"group A","degree":"some high school","courseType":"free/reduced","status":"none","math":44,"english":45,"bio":45}
+{"id":1089,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"completed","math":67,"english":86,"bio":83}
+{"id":1090,"gender":"male","group":"group E","degree":"high school","courseType":"free/reduced","status":"completed","math":86,"english":81,"bio":75}
+{"id":1091,"gender":"female","group":"group B","degree":"some high school","courseType":"standard","status":"completed","math":65,"english":82,"bio":78}
+{"id":1092,"gender":"female","group":"group D","degree":"associate's degree","courseType":"free/reduced","status":"none","math":55,"english":76,"bio":76}
+{"id":1093,"gender":"female","group":"group D","degree":"bachelor's degree","courseType":"free/reduced","status":"none","math":62,"english":72,"bio":74}
+{"id":1094,"gender":"male","group":"group A","degree":"high school","courseType":"standard","status":"none","math":63,"english":63,"bio":62}
+{"id":1095,"gender":"female","group":"group E","degree":"master's degree","courseType":"standard","status":"completed","math":88,"english":99,"bio":95}
+{"id":1096,"gender":"male","group":"group C","degree":"high school","courseType":"free/reduced","status":"none","math":62,"english":55,"bio":55}
+{"id":1097,"gender":"female","group":"group C","degree":"high school","courseType":"free/reduced","status":"completed","math":59,"english":71,"bio":65}
+{"id":1098,"gender":"female","group":"group D","degree":"some college","courseType":"standard","status":"completed","math":68,"english":78,"bio":77}
+{"id":1099,"gender":"female","group":"group D","degree":"some college","courseType":"free/reduced","status":"none","math":77,"english":86,"bio":86}
